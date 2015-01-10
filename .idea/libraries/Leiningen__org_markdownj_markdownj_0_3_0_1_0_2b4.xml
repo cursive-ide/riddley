@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.markdownj/markdownj:0.3.0-1.0.2b4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/markdownj/markdownj/0.3.0-1.0.2b4/markdownj-0.3.0-1.0.2b4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

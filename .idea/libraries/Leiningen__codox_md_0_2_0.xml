@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: codox-md:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/codox-md/codox-md/0.2.0/codox-md-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

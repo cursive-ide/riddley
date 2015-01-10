@@ -1,4 +1,4 @@
-package riddley;
+package cursive.riddley;
 
 import clojure.lang.Symbol;
 import clojure.lang.Compiler;

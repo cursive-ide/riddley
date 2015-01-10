@@ -1,12 +1,11 @@
-(ns riddley.compiler
+(ns cursive.riddley.compiler
   (:import
     [clojure.lang
      Var
      Compiler
      Compiler$ObjMethod
      Compiler$ObjExpr]
-    [riddley
-     Util]))
+    [cursive.riddley Util]))
 
 (defn- stub-method []
   (proxy [Compiler$ObjMethod] [(Compiler$ObjExpr. nil) nil]))
